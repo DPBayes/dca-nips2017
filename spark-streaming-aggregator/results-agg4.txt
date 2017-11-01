@@ -1,0 +1,167 @@
+9 --d 1000 --clients 10000
+Total time: 105394 ms.
+9 --d 1000 --clients 10000
+Total time: 109267 ms.
+9 --d 1000 --clients 10000
+Total time: 110730 ms.
+9 --d 1000 --clients 10000
+Total time: 111144 ms.
+9 --d 1000 --clients 10000
+Total time: 110378 ms.
+9 --d 100 --clients 10000
+Total time: 12343 ms.
+9 --d 100 --clients 10000
+Total time: 12948 ms.
+9 --d 100 --clients 10000
+Total time: 12439 ms.
+9 --d 100 --clients 10000
+Total time: 12913 ms.
+9 --d 100 --clients 10000
+Total time: 13148 ms.
+9 --d 10 --clients 10000
+Total time: 3063 ms.
+9 --d 10 --clients 10000
+Total time: 2818 ms.
+9 --d 10 --clients 10000
+Total time: 3067 ms.
+9 --d 10 --clients 10000
+Total time: 3065 ms.
+9 --d 10 --clients 10000
+Total time: 3096 ms.
+9 --d 10 --clients 1000
+Total time: 2483 ms.
+9 --d 10 --clients 1000
+Total time: 2046 ms.
+9 --d 10 --clients 1000
+Total time: 2082 ms.
+9 --d 10 --clients 1000
+Total time: 1978 ms.
+9 --d 10 --clients 1000
+Total time: 2056 ms.
+9 --d 100 --clients 1000
+Total time: 3046 ms.
+9 --d 100 --clients 1000
+Total time: 3193 ms.
+9 --d 100 --clients 1000
+Total time: 2860 ms.
+9 --d 100 --clients 1000
+Total time: 2890 ms.
+9 --d 100 --clients 1000
+Total time: 3116 ms.
+9 --d 1000 --clients 1000
+Total time: 12203 ms.
+9 --d 1000 --clients 1000
+Total time: 12163 ms.
+9 --d 1000 --clients 1000
+Total time: 11263 ms.
+9 --d 1000 --clients 1000
+Total time: 11680 ms.
+9 --d 1000 --clients 1000
+Total time: 11522 ms.
+9 --d 10000 --clients 1000
+Total time: 94400 ms.
+9 --d 10000 --clients 1000
+Total time: 92984 ms.
+9 --d 10000 --clients 1000
+Total time: 92690 ms.
+9 --d 10000 --clients 1000
+Total time: 94449 ms.
+9 --d 10000 --clients 1000
+Total time: 93135 ms.
+9 --d 10 --clients 100
+Total time: 2363 ms.
+9 --d 10 --clients 100
+Total time: 1803 ms.
+9 --d 10 --clients 100
+Total time: 1729 ms.
+9 --d 10 --clients 100
+Total time: 1711 ms.
+9 --d 10 --clients 100
+Total time: 1732 ms.
+9 --d 100 --clients 100
+Total time: 2225 ms.
+9 --d 100 --clients 100
+Total time: 2163 ms.
+9 --d 100 --clients 100
+Total time: 2057 ms.
+9 --d 100 --clients 100
+Total time: 2155 ms.
+9 --d 100 --clients 100
+Total time: 2152 ms.
+9 --d 1000 --clients 100
+Total time: 3880 ms.
+9 --d 1000 --clients 100
+Total time: 3945 ms.
+9 --d 1000 --clients 100
+Total time: 3922 ms.
+9 --d 1000 --clients 100
+Total time: 3863 ms.
+9 --d 1000 --clients 100
+Total time: 3826 ms.
+9 --d 10000 --clients 100
+Total time: 19815 ms.
+9 --d 10000 --clients 100
+Total time: 19339 ms.
+9 --d 10000 --clients 100
+Total time: 19497 ms.
+9 --d 10000 --clients 100
+Total time: 19323 ms.
+9 --d 10000 --clients 100
+Total time: 21497 ms.
+9 --d 10 --clients 100000
+Total time: 9172 ms.
+9 --d 10 --clients 100000
+Total time: 8434 ms.
+9 --d 10 --clients 100000
+Total time: 8647 ms.
+9 --d 10 --clients 100000
+Total time: 8741 ms.
+9 --d 10 --clients 100000
+Total time: 8807 ms.
+9 --d 10 --clients 100000
+Total time: 8518 ms.
+9 --d 100 --clients 100000
+Total time: 70875 ms.
+9 --d 100 --clients 100000
+Total time: 70965 ms.
+9 --d 100 --clients 100000
+Total time: 69856 ms.
+9 --d 100 --clients 100000
+Total time: 71048 ms.
+9 --d 100 --clients 100000
+Total time: 69147 ms.
+9 --d 1000 --clients 100000
+Total time: 662427 ms.
+9 --d 1000 --clients 100000
+Total time: 649283 ms.
+9 --d 1000 --clients 100000
+Total time: 670965 ms.
+9 --d 1000 --clients 100000
+Total time: 670152 ms.
+9 --d 1000 --clients 100000
+Total time: 679691 ms.
+9 --d 10000 --clients 10000
+Total time: 1042829 ms.
+9 --d 10000 --clients 10000
+Total time: 1132176 ms.
+9 --d 10000 --clients 10000
+Total time: 1138083 ms.
+9 --d 10000 --clients 10000
+Total time: 1101404 ms.
+9 --d 10000 --clients 10000
+Total time: 1102854 ms.
+9 --d 1000 --clients 100000 --repeats 10
+9 --d 1000 --clients 100000 --repeats 10
+9 --d 1000 --clients 100000 --repeats 10
+9 --d 1000 --clients 100000 --repeats 10
+9 --d 1000 --clients 100000 --repeats 10
+9 --d 1000 --clients 100000 --repeats 10
+Total time: 6684956 ms.
+9 --d 1000 --clients 100000 --repeats 10
+Total time: 6649201 ms.
+9 --d 1000 --clients 100000 --repeats 10
+Total time: 6662739 ms.
+9 --d 1000 --clients 100000 --repeats 10
+Total time: 6690525 ms.
+9 --d 1000 --clients 100000 --repeats 10
+Total time: 6720634 ms.
