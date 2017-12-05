@@ -18,4 +18,4 @@ For the GDSC data, set the options in tensor.py and use clippingomega.py followe
 
 See the paper "Efficient differentially private learning improves drug sensitivity prediction" (arXiv:1606.02109) for more information on the GDSC data pre-processing.
 
-For running the Spark tests, see the separate [readme at the `probic-decrypt-server` folder](../probic-decrypt-server).
+For running the Spark tests, see the separate [readme at the `probic-decrypt-server` folder](../../probic-decrypt-server).
